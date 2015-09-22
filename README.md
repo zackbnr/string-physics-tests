@@ -7,7 +7,7 @@ A space with version control for me to test some theories on how to replicate st
 - Express
 
 ## To Do
-- Create repository, set up project space
+- ~~Create repository, set up project space~~
 - Find some libraries to test out (focus on SVG)
 - Create the building blocks
     - Connected vertices
